@@ -1,0 +1,2 @@
+##术语概念
+* Region和Zone： Region代表资源所在的地域，每个地域包含一组可用区；Zone代表可用区，同一个Region（地域）内，电力和网络是互相独立的物理区域。同一个可用区内的ECS实例网络延时更小。在同一个地域内可用区与可用区之间内网互通，可用区之间能做到故障隔离。[详细术语表链接](http://docs.aliyun.com/?spm=5176.383518.9.14.IdNsfU#/ecs/openapi/summary) [ECS API链接](http://docs.aliyun.com/?spm=5176.383518.9.14.IdNsfU#/ecs/openapi/other&describeinstancetypes)
